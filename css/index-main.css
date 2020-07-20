@@ -8,7 +8,7 @@ input[type=text] {
 }
 
 body {
-  font-family: 'Roboto';
+  font-family: 'comic-sans';
   user-select: none;
   -webkit-touch-callout: none;
 }
